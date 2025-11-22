@@ -1,0 +1,13 @@
+body{margin:0;font-family:Arial;background:black;color:white}
+.topo{text-align:center;padding-bottom:20px}
+.capa{width:100%;height:250px;background-size:cover;background-position:center}
+.perfil img{width:140px;height:140px;border-radius:50%;margin-top:-70px;border:4px solid #ff0099}
+h1{font-size:28px;margin-top:10px}
+.verificado{color:#ff0099}
+.bio{padding:0 20px;font-size:16px;color:#ddd}
+.planos{padding:20px}
+.card{background:#111;padding:15px;border-radius:15px;margin-bottom:20px;text-align:center}
+.card img{width:100%;border-radius:10px}
+.btn,.subbtn{display:inline-block;background:#ff0099;color:white;padding:10px 15px;border-radius:10px;text-decoration:none;margin-top:10px}
+.subplanos{display:flex;gap:10px;justify-content:center;margin-top:10px}
+footer{text-align:center;padding:20px;color:#999;font-size:14px}
